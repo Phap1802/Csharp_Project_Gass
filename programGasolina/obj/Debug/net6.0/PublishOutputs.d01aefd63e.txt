@@ -1,0 +1,5 @@
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\publish\programGasolina.exe
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\publish\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\publish\programGasolina.deps.json
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\publish\programGasolina.runtimeconfig.json
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\publish\programGasolina.pdb

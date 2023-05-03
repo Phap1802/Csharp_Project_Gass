@@ -1,0 +1,30 @@
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.exe
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.deps.json
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.runtimeconfig.json
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\ref\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.pdb
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.csproj.AssemblyReference.cache
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.AssemblyInfoInputs.cache
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.AssemblyInfo.cs
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.csproj.CoreCompileInputs.cache
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\ref\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.pdb
+E:\Area de Trabalho\Pulike\Cursos DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.genruntimeconfig.cache
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.exe
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.deps.json
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.runtimeconfig.json
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\bin\Debug\net6.0\programGasolina.pdb
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.csproj.AssemblyReference.cache
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.AssemblyInfoInputs.cache
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.AssemblyInfo.cs
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.csproj.CoreCompileInputs.cache
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\ref\programGasolina.dll
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.pdb
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\programGasolina.genruntimeconfig.cache
+E:\Area de Trabalho\Pulike\Cursos_DEV\csharp\programGasolina\obj\Debug\net6.0\refint\programGasolina.dll
